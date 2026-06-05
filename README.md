@@ -3,7 +3,7 @@
 A sleek, modern, and futuristic portfolio website built by **Ziad Nassar**. Designed specifically for software developers and AI engineers, this project features a stunning glassmorphic UI, cyber-inspired neon gradients, and smooth interactive animations.
 
 ---
-### see live [neon protofolio] []
+### see live [neon protofolio] [https://ziadnasar6-lgtm.github.io/neon-dev-portfolio/]
 [
 ## 🌟 Features
 
